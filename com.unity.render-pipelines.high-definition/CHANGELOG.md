@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fixed SSR issues related to self-intersections
 - Fixed shape density volume handle speed
 - Fixed density volume shape handle moving too fast
+- Fixed camera velocity
 
 ### Changed
 - Renamed "Line" shaped lights to "Tube" light
